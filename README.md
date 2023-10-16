@@ -16,7 +16,7 @@ Pricing for medical services are usually hidden from the public. This app helps 
 
 
 
-## Link to HealthCare Hero
+## Link to Repository
 Original Github: https://github.com/brudter/healthcare-hero
 
 ## Credits
